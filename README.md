@@ -32,6 +32,6 @@ Tech: FastAPI, React, Supabase, Docker, TanStack Query
 
 ## Experience
 
-- **Technology Intern** @ John Hancock: built ECHO, a Power BI compliance monitoring platform; configured Salesforce-to-Databricks data ingestions
+- **Technology Intern** @ John Hancock: built ECHO, a Power BI compliance monitoring platform; configured Salesforce data ingestions in the Synapse/Databricks framework
 - **Data Management Specialist** @ Vertex Pharmaceuticals: automated cell confluency analysis and lab reporting workflows
 - **Research Assistant** @ Massachusetts Port Authority IT: built ETL/ELT pipelines for live airport camera feeds
