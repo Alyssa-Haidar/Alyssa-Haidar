@@ -42,4 +42,4 @@ Tech: FastAPI, React, Supabase, Docker, TanStack Query
 ## Contact
 
 - Email: haidar.al@northeastern.edu
-- LinkedIn: [linkedin.com/in/alyssa-haidar](https://linkedin.com/in/alyssa-haidar)
+- LinkedIn: [linkedin.com/in/alyssa-haidar](https://www.linkedin.com/in/alyssa-haidar-21662a246/)
