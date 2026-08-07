@@ -34,4 +34,12 @@ Tech: FastAPI, React, Supabase, Docker, TanStack Query
 
 - **Technology Intern** @ John Hancock: built ECHO, a Power BI compliance monitoring platform; configured Salesforce data ingestions in the Synapse/Databricks framework
 - **Data Management Specialist** @ Vertex Pharmaceuticals: automated cell confluency analysis and lab reporting workflows
-- **Research Assistant** @ Massachusetts Port Authority IT: built ETL/ELT pipelines for live airport camera feeds
+- **Research Assistant** @ Massachusetts Port Authority IT: built a mock ETL/ELT pipeline while shadowing the cybersecurity data engineering team's approach to live airport traffic camera feeds
+- **Data Member** @ Generate: built a Streamlit application for race performance prediction for StrideTrack, a start-up using real-time running shoe-based data
+
+---
+
+## Contact
+
+- Email: haidar.al@northeastern.edu
+- LinkedIn: [linkedin.com/in/alyssa-haidar](https://linkedin.com/in/alyssa-haidar)
